@@ -1,2 +1,3 @@
 # Taller3
-Calculo de de factura de energía eléctrica
+Pesentado por: Daniela Jaramillo Solar y Jesus Goyeneche Hernandez 
+Calculo de factura de energía eléctrica
